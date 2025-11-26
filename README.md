@@ -13,5 +13,5 @@
 </p>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="qr-code.png" width="400" height="400" />
+  <img src="qr-code.png" width="250" height="250" />
 </p>
