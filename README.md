@@ -11,3 +11,7 @@
     <img src="https://img.shields.io/badge/Открыть%20страницу%20в%20Notion-black?logo=notion&style=for-the-badge" alt="Open Notion"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="qr-code-bee-is.png"/>
+</p>
