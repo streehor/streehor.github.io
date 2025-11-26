@@ -12,6 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="qr-code-bee-is.png"/>
+<p align="center" style="margin-top: -10px;">
+  <img src="qr-code.png"/>
 </p>
